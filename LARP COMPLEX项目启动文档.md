@@ -37,7 +37,7 @@
 
 ## 三、商业模式画布
 
-![](https://box.nju.edu.cn/f/b8b7370ca70442f195a3/?dl=1)
+![](https://seec-homework.oss-cn-shanghai.aliyuncs.com/商业模式画布.png)
 
 #### 1. 客户细分
 
